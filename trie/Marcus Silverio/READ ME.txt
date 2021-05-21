@@ -1,3 +1,0 @@
-Os arquivos foram compilados no windows 10 Pro versão 20H2
-usando o compilador gcc (MinGW.org GCC Build-2) 9.2.0
-
